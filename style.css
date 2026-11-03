@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #e8f5e9;
+}
+
+canvas {
+    background: #d7f0a8;
+    border: 4px solid #397f39;
+    border-radius: 12px;
+}
+
+button {
+    padding: 8px 18px;
+    font-size: 16px;
+}
